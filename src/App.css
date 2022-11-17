@@ -1,0 +1,18 @@
+.wrap{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 500px;
+    height: 600px;
+    border: 10px solid #e8e8e8;
+    text-align: center;
+}
+.box .item_img{
+    width: 400px;
+    height: 400px;
+}
+
+.center{
+    text-align: center;
+}
